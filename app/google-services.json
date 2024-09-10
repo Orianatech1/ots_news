@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863043211837",
+    "project_id": "newsfreak-9f0a0",
+    "storage_bucket": "newsfreak-9f0a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863043211837:android:687c15aa0948c73d93d054",
+        "android_client_info": {
+          "package_name": "com.ots.newsfreak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0zIOhNARjQz3kZpT5Vbm_Tn8B6DAMaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
